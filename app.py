@@ -37,4 +37,4 @@ def calculate():
 
 if __name__ == '__main__':
     # Note: debug=False in production
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=False)
