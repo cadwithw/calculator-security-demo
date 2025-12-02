@@ -51,11 +51,8 @@ Modern web application security
 
 - Severity Levels
 High/Critical: Immediate action required (24-72 hours)
-
 Medium: Address within 2 weeks
-
 Low: Address within 1 month
-
 Informational: Best practices, no immediate security impact
 
 - Tool-Specific Interpretation
